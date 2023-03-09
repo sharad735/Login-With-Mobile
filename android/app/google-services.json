@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "638717074992",
+    "project_id": "login-with-phone-4cf54",
+    "storage_bucket": "login-with-phone-4cf54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638717074992:android:b22fb7b2de64b2a9b2d7f5",
+        "android_client_info": {
+          "package_name": "com.bhiseSharad.login_with_mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638717074992-7sm5lafkkmt2qcajvirj4o6f1kflcqqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKDqIEqBQRp8vpgTxoFPSCNpB3E0h8Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638717074992-7sm5lafkkmt2qcajvirj4o6f1kflcqqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638717074992-o6l8vuiep6u4dok65lh2nd80guk4n3nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginWithMob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
