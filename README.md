@@ -1,5 +1,5 @@
 # Login-With-Mobile
-Login/Sign with a mobile number
+The registration process starts with the user entering their mobile number, which is verified using Firebase's Phone Authentication service. Once the number is confirmed, the user is prompted to enter the home screen,
 
 ![1](https://user-images.githubusercontent.com/104763062/224035135-ed53e670-825a-4d47-aa2e-fd21580c73b6.jpeg)
 
